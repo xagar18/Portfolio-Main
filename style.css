@@ -966,7 +966,7 @@ marquee {
     justify-content: center;
     height: 30%;
     width: 100%;
-    font-size: 4.5rem;
+    font-size: 4.2rem;
     font-family: "Doto", sans-serif;
     font-weight: 800;
     animation: bounce 2s none;
@@ -989,7 +989,7 @@ marquee {
   .smallpara {
     padding-left: 2%;
     margin-top: 15px;
-    font-size: 27px;
+    font-size: 24px;
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -1006,10 +1006,11 @@ marquee {
     color: white;
     /* color: transparent; */
     width: 210px;
-    height: 40px;
+    height: 50px;
     /* border: 5px solid none; */
     border-radius: 15px;
     margin-bottom: 50px;
+    font-family: "Stylish", serif;
   }
   .para {
     display: flex;
